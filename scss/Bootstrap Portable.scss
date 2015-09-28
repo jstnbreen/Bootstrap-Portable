@@ -1,0 +1,35 @@
+/* Base
+--------------- */
+
+$base-size: 16px;
+
+
+
+
+/* Responsive
+--------------- */
+
+$screen-xs-max: 750px;
+
+$screen-sm-min: 751px;
+
+$screen-sm-max: 985px;
+
+$screen-md-min: 986px;
+
+$screen-md-max: 1999px;
+
+$screen-lg-min: 1200px;
+
+
+
+
+/* Partials
+--------------- */
+
+
+@import "partials/bootstrap-portable--grid";
+
+@import "partials/bootstrap-portable--forms";
+
+@import "partials/bootstrap-portable--tables";
