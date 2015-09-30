@@ -1,13 +1,17 @@
-/* Base
---------------- */
+/*
+	Base
+*/
+
 
 $base-size: 16px;
 
 
 
 
-/* Responsive
---------------- */
+/*
+	Responsive Breakpoints
+*/
+
 
 $screen-xs-max: 750px;
 
@@ -24,8 +28,9 @@ $screen-lg-min: 1200px;
 
 
 
-/* Partials
---------------- */
+/*
+	Partials
+*/
 
 
 @import "partials/bootstrap-portable--grid";
